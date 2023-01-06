@@ -1,0 +1,9 @@
+C:\Users\tallen\Unity Projects\chess\bin\debug\Chess.exe
+C:\Users\tallen\Unity Projects\chess\bin\debug\Chess.pdb
+C:\Users\tallen\Unity Projects\chess\project\Chess\obj\x86\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\tallen\Unity Projects\chess\project\Chess\obj\x86\Debug\Chess.MainForm.resources
+C:\Users\tallen\Unity Projects\chess\project\Chess\obj\x86\Debug\Chess.Properties.Resources.resources
+C:\Users\tallen\Unity Projects\chess\project\Chess\obj\x86\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\tallen\Unity Projects\chess\project\Chess\obj\x86\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\tallen\Unity Projects\chess\project\Chess\obj\x86\Debug\Chess.exe
+C:\Users\tallen\Unity Projects\chess\project\Chess\obj\x86\Debug\Chess.pdb
